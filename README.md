@@ -49,7 +49,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```lua
 -- tailwind-tools.lua
 return {
-  "luckasRanarison/tailwind-tools.nvim",
+  "richardhapb/tailwind-tools.nvim",
   name = "tailwind-tools",
   build = ":UpdateRemotePlugins",
   dependencies = {
